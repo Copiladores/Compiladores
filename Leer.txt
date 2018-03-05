@@ -1,0 +1,3 @@
+Se presento un problema cuando use los simbolos de <,> y otros y no se puede guardar pero mando evidencia en una foto
+ademas los problemas de compatibilidad de Grafos con el sistema de 64 bits
+eso hizo que me retrazara en la entrega
